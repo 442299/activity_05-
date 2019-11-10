@@ -1,0 +1,110 @@
+h1{
+    text-align: center;
+    font-size:30px;
+}
+
+.jumbotron{
+    width:60%;
+    height:650px;
+    margin:auto;
+   
+
+}
+
+.card{
+    display:inline-block;
+    width:80%;
+    margin:15px;
+    
+    
+}
+h3{
+    text-align: center;
+    border-bottom:2px solid;
+    font-size:20px;
+    
+}
+.wrapper{
+    width:60%;
+    margin:20px auto;
+    
+}
+.group{
+    margin-bottom:30px;
+}
+.name{
+    width:45%;
+    box-sizing:border-box;
+    display:inline-block;
+    margin-right:35px;
+
+}
+    
+
+
+.wrapper_g{
+    width:80%;
+    height:650px;
+    margin:auto;
+    
+}
+
+/* form{
+    box-sizing:border-box;
+    height:80%;
+
+} */
+/* .box1{
+    display:inline-block;
+    width:49%;
+    padding:10px;
+    box-sizing:border-box;
+    white-space: nowrap;
+    
+}
+.box2{
+    width:100%;
+    padding:10px;
+} */
+.facolor{
+    color:white;
+}
+/* .trim{
+    position: relative;
+    border-radius: 50%;
+    background-color:pink;
+    width:150px;
+    height:150px;
+    margin:150px 0 0 0;
+    overflow:hidden;
+
+}
+.trim img{
+    position: absolute;
+    width: 200px;
+    height:200px;
+    right:10px; 
+} */
+
+
+.circle {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color:white;
+}
+
+.icon{
+    float:left;
+    
+}
+.trim2{
+    margin:150px 0 0 20px;
+}
+.navbar{
+    color:white;
+}
+input,textarea{
+    width:100%;
+    padding:30px;
+}
